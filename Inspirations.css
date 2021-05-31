@@ -1,0 +1,26 @@
+body {
+text-align: center;
+background:linear-gradient(#eb4034 0%,#eb6b34 100%)
+}
+#AG {
+width:750px;
+}
+.Menu {
+list-style: none;
+position: fixed;
+top: 50px;
+right: 10px;
+cursor: pointer;
+z-index: 10;
+}
+.List {
+float: top;
+color: black;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+.List:hover{
+background-color: lawngreen;
+}

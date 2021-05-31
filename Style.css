@@ -1,0 +1,42 @@
+body {
+text-align: center;
+background: linear-gradient(#03fc1c 35%, #e3fc03 100%)
+}
+#WO {
+font-family: cursive;
+font-variant: small-caps;
+font-style: italic;
+}
+#IO {
+width: 550px;
+height: 365px;
+}
+#IT {
+width: 425px;
+}
+#IH {
+width: 550px;
+height: 350px;
+}
+#IF {
+width: 550px;
+}
+.Menu {
+list-style: none;
+position: fixed;
+top: 50px;
+right: 10px;
+cursor: pointer;
+z-index: 10;
+}
+.List {
+float: top;
+color: black;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+.List:hover {
+background-color: crimson;
+}
